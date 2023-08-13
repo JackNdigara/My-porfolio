@@ -46,7 +46,7 @@ const Projects = () => {
               isBlog={false}
               title="Popcorn box arcade"
               description="Popcorn Box Arcade is a movie app made with HTML, CSS, Javascript.The website shows the movies we have in our arcade ,to be directed to our services you press the genre ontop an d it will show they menu to where to navigate next."
-              ghLink="https://github.com/19sajib/mern-stack-ecommerce"
+              ghLink="https://github.com/JackNdigara/Popcorn-Box-Arcade"
               demoLink="https://jackndigara.github.io/Popcorn-Box-Arcade/"
             />
           </Col>
