@@ -34,9 +34,9 @@ const Footer = () => {
                   <AiFillGithub />
                 </a>
               </li>
-              {/* <li className="social-icons">
+              { <li className="social-icons">
                 <a
-                  href="https://twitter.com/19sajib"
+                  href="https://twitter.com/PeterNdigara"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"

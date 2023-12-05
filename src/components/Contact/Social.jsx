@@ -30,16 +30,16 @@ const Social = () => {
                       <AiFillGithub />
                     </a>
                   </li>
-                  {/* <li className="contact-icons">
+                  { <li className="contact-icons">
                     <a
-                      href="https://twitter.com/19sajib"
+                      href="https://twitter.com/PeterNdigara"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
                     >
                       <AiOutlineTwitter />
                     </a>
-                  </li> */}
+                  </li> }
                   <li className="contact-icons">
                     <a
                       href="https://www.linkedin.com/in/peter-ndigara-16937724b/"
