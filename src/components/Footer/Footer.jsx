@@ -44,7 +44,7 @@ const Footer = () => {
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li> */}
+              </li> }
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/peter-ndigara-16937724b/"

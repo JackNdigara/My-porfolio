@@ -85,9 +85,9 @@ const About = () => {
                       <AiFillGithub />
                     </a>
                   </li>
-                  {/* <li className="social-icons">
+                  { <li className="social-icons">
                     <a
-                      href="https://twitter.com/19sajib"
+                      href="https://twitter.com/PeterNdigara"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -95,7 +95,7 @@ const About = () => {
                     >
                       <AiOutlineTwitter />
                     </a>
-                  </li> */}
+                  </li> }
                   <li className="social-icons">
                     <a
                       href="https://www.linkedin.com/in/peter-ndigara-16937724b/"
